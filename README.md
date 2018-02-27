@@ -4,7 +4,7 @@ A full-stack, burger-eating app. Contains persistant burger data with ability to
 
 ## Getting Started
 
-Npm install to get the required Node packages, and replace the MySQL information in the seeds.sql file with your own.
+Npm install to get the required Node packages, and replace the MySQL information in the connection.js file with your own.
 
 ## Built With
 
