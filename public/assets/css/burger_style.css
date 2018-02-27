@@ -1,5 +1,6 @@
 body {
-    background-color: yellow;
+    background: url("../img/food.png");
+    line-height: 100%;
 }
 
 .well {
@@ -9,4 +10,8 @@ body {
 .devoured {
     display: block;
     width: 30%;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Patua One', cursive;
 }
